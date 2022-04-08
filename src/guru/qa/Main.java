@@ -9,4 +9,7 @@ public class Main {
         System.out.println("Slow branch");
 
     }
+public static void another(){
+    System.out.println("Another method");
+}
 }
