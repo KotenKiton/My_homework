@@ -6,6 +6,7 @@ public class Main {
 
         System.out.println("Hello, QA.GURU!");
         System.out.println("Another line ");
+        System.out.println("Slow branch");
 
     }
 public static void another(){
